@@ -1,4 +1,4 @@
-CYBRETEK: Publish to Docker Hub
+ Publish to Docker Hub
 on:
   push:
     branches:
